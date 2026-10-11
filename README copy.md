@@ -1,7 +1,5 @@
 # Covid-19 Pandemic: A Comprehensive Data Analysis with SQL & Tableau
-By Michael Olaniyi Jeremiah
 
-![Covid19-](https://github.com/mikeolaniyi/Covid19_Vaccination_Analysis_in_SQL/assets/120651356/ab54c8f4-7465-49b9-8502-c9f758497889)
 
 
 - **Brief Introduction**
@@ -232,12 +230,6 @@ Output:
 - Findings: Vaccination rollout played a critical role in slowing down the spread of Covid-19. However, many developing nations, including Nigeria, lagged behind in terms of vaccination coverage, which may have prolonged their exposure to the virus.
 
 
-
-## Covid-19 Global Impact Analysis Dashboard on Tableau
-
-![Covid-19 Vaccination Analysis](https://github.com/mikeolaniyi/Covid19_Vaccination_Analysis_in_SQL/assets/120651356/6baecef0-83d1-46b3-89f6-1528fdd01c7b)
-
-
 ## Global Overview
 - Total Cases: 150,574,977
 - Total Deaths: 3,180,206
@@ -294,9 +286,3 @@ These numbers indicate that nearly 1 in 5 individuals in these countries contrac
 
 By implementing these recommendations, countries will be better positioned to handle future pandemics, reduce fatalities, and minimize disruptions to global health systems. The Covid-19 pandemic has underscored the importance of proactive, unified, and well-prepared responses to global health threats.
 
-
-
-Thank you for reading. 
-Kindly contact me for any discussion on projects or job offers on: 
-Email: michaeljeremiah124@gmail.com
-Phone: 2347066644028
